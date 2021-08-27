@@ -7,8 +7,11 @@ book and allows them to look at them before they may want to make a purchase.
 
 # Usage
 npm i on client folder
+
 npm i on server folder
+
 npm i apollo server on client folder
+
 npm start on client folder
 
 This will run the browser application.
